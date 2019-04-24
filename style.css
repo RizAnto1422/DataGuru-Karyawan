@@ -1,0 +1,51 @@
+.warna-biru{
+    background-color: #2699FB;
+}
+.text-biru{
+    color: #2699FB;
+}
+.text-biru::-webkit-input-placeholder{
+	color: #C5E5FD;
+}
+.background{
+    background-color: #F1F9FF;
+}
+.fontnya{
+    font-family: Arial;
+}
+
+.informasinya{
+    width: 50px;
+}
+.kotak-isi{
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.kotak-isi-id{
+    width: 150px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+.ket-nya{
+    margin-top: 10px;
+}
+.hapus-ya{
+    width: 65px;
+}
+.id-hapus{
+    width: 40px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.text-hapus{
+    margin-left: 40px;
+}
+.pilihan{
+    width: 10em;   
+}
+.awal-kelas{
+    color: rgb(10, 141, 255);
+    font-weight: bold;
+}
